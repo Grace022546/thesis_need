@@ -308,4 +308,5 @@ RMSE ≈ 10⁻⁵
 
 ---
 
+<img width="1536" height="1024" alt="38e03ced-4659-4aed-9b34-c07fdd9370a6" src="https://github.com/user-attachments/assets/a8286841-d7e4-4857-8b31-1c08b28cdf84" />
 
