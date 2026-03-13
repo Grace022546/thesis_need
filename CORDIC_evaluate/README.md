@@ -309,4 +309,6 @@ RMSE ≈ 10⁻⁵
 ---
 
 <img width="1536" height="1024" alt="38e03ced-4659-4aed-9b34-c07fdd9370a6" src="https://github.com/user-attachments/assets/a8286841-d7e4-4857-8b31-1c08b28cdf84" />
+<img width="1536" height="1024" alt="ChatGPT Image Mar 13, 2026, 11_51_42 AM" src="https://github.com/user-attachments/assets/31f5a243-f337-4255-bb30-8c053e429aa0" />
+<img width="1536" height="1024" alt="ChatGPT Image Mar 13, 2026, 11_51_37 AM" src="https://github.com/user-attachments/assets/736acbc1-60e6-4b34-94be-f170266cf3cb" />
 
