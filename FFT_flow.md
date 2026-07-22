@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% 定義外觀風格
     classDef memory fill:#f9f9f9,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5;
@@ -39,3 +40,4 @@ graph TD
     PE ==>|Output| FIFO
     FIFO ==> RU_WBQ
     RU_WBQ ==>|Write Back| Stage_S1
+```
